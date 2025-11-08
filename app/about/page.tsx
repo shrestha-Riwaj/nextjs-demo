@@ -4,6 +4,7 @@ export default function About(){
 
         <>
         <h1>This is about page</h1>
+        <p>Welcome to about page</p>
         </>
     )
 }
