@@ -1,5 +1,6 @@
 export default function About(){
 
+    throw new Error("not implemented")
     return(
 
         <>

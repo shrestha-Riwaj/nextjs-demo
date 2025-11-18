@@ -1,6 +1,6 @@
+import Hello from '@/components/hello'
 import { log } from 'console'
 import React from 'react'
-import Hello from '../components/hello'
 
 const Page = () => {
 
